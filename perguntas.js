@@ -1,92 +1,69 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'LIVROS',
+    'Qual o livro mais vendido pela Collen Hoover?',
+    ' É assim que acaba'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'LIVROS',
+    'Qual autor com mais relevância na atualidade ?',
+    '  J.K Rowling'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'LIVROS',
+    'Qual foi a melhor adaptação de livro para filme?',
+    'Senhor dos anéis'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    ' LIVROS',
+    'Qual o livro mais longo do mundo?',
+    'Em busca do tempo perdido'
 )
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'LIVROS',
+    'Qual a escritora com mais livros vendidos na atualidade?',
+    'Collen Hoover'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'LIVROS',
+    'Qual o livro mais antigo do mundo?',
+    'A bíblia em latim'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'LIVROS',
+    ' Qual o livro mais vendido da Ali Hazelwood?',
+    'Hipotese do amor'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'LIVROS',
+    'Qual o autor brasileiro com mais livros traduzidos no mundo?',
+    'Paulo Coelho, com o livro anarquista'
+)
+criaCartao(
+    'LIVROS',
+    'Qual adaptação vai para o cinema em 2025?',
+    ' A casa dos espíritos'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'LIVROS',
+    'Qual a adaptação com melhor bilheteria?',
+    ' Avatar'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'LIVROS',
+    'Qual o livro mais lido por adolescentes?',
+    'A saga Harry Potter'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'LIVROS',
+    'Qual o livro mais lido no mundo?',
+    'A bíblia sagrada'
 )
